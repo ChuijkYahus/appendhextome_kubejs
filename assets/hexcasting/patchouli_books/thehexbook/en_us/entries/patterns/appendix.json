@@ -1,0 +1,25 @@
+{
+	"name": "appendhextome.entry.appendix",
+	"category": "hexcasting:patterns",
+	"icon": "minecraft:weeping_vines",
+	"pages": [
+		"appendhextome.page.readwrite.1",
+		"appendhextome.page.readwrite.2",
+		{
+			"type": "hexcasting:pattern",
+			"op_id": "appendhextome:read",
+			"anchor": "appendhextome:read",
+			"input": "",
+			"output": "any",
+			"text": "appendhextome.page.readwrite.read"
+		},
+		{
+			"type": "hexcasting:pattern",
+			"op_id": "appendhextome:write",
+			"anchor": "appendhextome:write",
+			"input": "any",
+			"output": "",
+			"text": "appendhextome.page.readwrite.write"
+		}
+	]
+}

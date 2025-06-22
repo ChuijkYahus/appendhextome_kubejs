@@ -1,0 +1,20 @@
+{
+	"casting.cast.squish": {
+		"subtitle": "hexcasting.subtitles.casting.cast.normal",
+		"sounds": [
+			"appendhextome:cast/squish_cast1",
+			"appendhextome:cast/squish_cast2",
+			"appendhextome:cast/squish_cast3",
+			"appendhextome:cast/squish_cast4"
+		]
+	},
+	"casting.cast.fail": {
+		"subtitle": "hexcasting.subtitles.casting.cast.fail",
+		"sounds": [
+			"appendhextome:cast/squish_mishap1",
+			"appendhextome:cast/squish_mishap2",
+			"appendhextome:cast/squish_mishap3",
+			"appendhextome:cast/squish_mishap4"
+		]
+	}
+}
